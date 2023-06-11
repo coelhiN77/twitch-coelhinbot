@@ -6,7 +6,7 @@
 ![preview2](./components/assets/screenshot2.png)
 
 ## Bot
-- Bot that interacts in your chat when you use "-" before the command.
+- A Bot that interacts in your chat when you use the "-" prefix before the command.
 
 ## Installation
 1. Clone the **[Repository](https://github.com/coelhiN77/twitch-coelhinbot)**.
