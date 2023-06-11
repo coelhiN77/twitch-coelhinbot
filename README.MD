@@ -1,9 +1,9 @@
 # Twitch Bot built with TypeScript.
 
 ## Preview
-![preview1](assets/screenshot1.png)
-##
-![preview2](assets/screenshot2.png)
+![preview1](./components/assets/screenshot1.png)
+
+![preview2](./components/assets/screenshot2.png)
 
 ## Bot
 - Bot that interacts in your chat when you use "-" before the command.
